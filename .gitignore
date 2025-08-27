@@ -1,0 +1,22 @@
+# === Secrets & env ===
+GraphRAG/Secret/        # your secrets folder INSIDE GraphRAG
+secret/                 # if you ever have a top-level "secret" folder
+*.env
+.env*
+
+# === Python bytecode & cache ===
+__pycache__/
+*.py[cod]
+*.pyd
+
+# === Virtual environments ===
+.venv/
+venv/
+
+# === macOS junk ===
+.DS_Store
+
+# === Local datasets / large local data (keep out of repo) ===
+beir/
+datasets/
+GraphRag_retrieval_controller/data/

@@ -72,6 +72,7 @@ PPF adds an adaptive filtering layer between **your retriever** and **your LLM**
 ## 🤝 Contributing
 I’d love feedback and contributions from anyone working on retrieval systems.  
 Ideas, pull requests, and experiments are welcome!
+* Also... this is my first project, so sorry if its messy (PLEASE GIVE FEEDBACK)
 
 ---
 
